@@ -30,6 +30,7 @@ This repository serves as a learning platform for understanding PyTorch and basi
 ## Learning Syllabus
 
 ### 1. PyTorch Foundations (notebooks/01_pytorch_fundamentals.ipynb)
+
 - Tensor basics and operations
 - Tensor attributes and methods
 - GPU acceleration
@@ -38,6 +39,7 @@ This repository serves as a learning platform for understanding PyTorch and basi
 - Memory management and efficiency
 
 ### 2. Neural Network Basics (notebooks/02_neural_networks.ipynb)
+
 - Linear layers and activation functions
 - Building neural network modules
 - Forward and backward propagation
@@ -46,6 +48,7 @@ This repository serves as a learning platform for understanding PyTorch and basi
 - Basic training loops
 
 ### 3. Data Handling (notebooks/03_data_handling.ipynb)
+
 - Dataset and DataLoader classes
 - Data preprocessing and transforms
 - Batching and shuffling
@@ -53,6 +56,7 @@ This repository serves as a learning platform for understanding PyTorch and basi
 - Data augmentation techniques
 
 ### 4. Training Deep Networks (notebooks/04_training.ipynb)
+
 - Training best practices
 - Validation and testing
 - Learning rate scheduling
@@ -61,6 +65,7 @@ This repository serves as a learning platform for understanding PyTorch and basi
 - Model evaluation metrics
 
 ### 5. Advanced Topics (notebooks/05_advanced.ipynb)
+
 - Custom autograd functions
 - Model regularization techniques
 - Debugging and profiling
@@ -68,6 +73,7 @@ This repository serves as a learning platform for understanding PyTorch and basi
 - Model deployment considerations
 
 ### 6. Natural Language Processing Basics (notebooks/06_nlp_basics.ipynb)
+
 - Text preprocessing
 - Word embeddings
 - Sequence handling
@@ -75,6 +81,7 @@ This repository serves as a learning platform for understanding PyTorch and basi
 - Simple encoder-decoder architectures
 
 ### 7. Project: English-French Translator (notebooks/07_translator_project.ipynb)
+
 - Implementing the translation model
 - Training and evaluation
 - Model improvements
@@ -123,4 +130,4 @@ pip install -r requirements.txt
 
 ## License
 
-This project is for educational purposes. 
+This project is for educational purposes.
