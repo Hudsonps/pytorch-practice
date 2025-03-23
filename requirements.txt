@@ -6,3 +6,4 @@ notebook
 numpy
 matplotlib
 torchviz
+scikit-learn
